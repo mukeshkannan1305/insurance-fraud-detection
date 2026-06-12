@@ -1,0 +1,5 @@
+user_id,password,name,plate,color,past_claims,accident_history
+101,pass123,Mukesh,TN10A81234,black,1,0
+102,pass123,Ravi,TN22B4567,red,3,2
+103,pass123,Arun,TN09C9999,blue,0,0
+104,pass123,Kiran,TN11D1234,grey,2,1
